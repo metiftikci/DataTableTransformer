@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTableTransformer", "src\DataTableTransformer.csproj", "{88B562DA-38E5-477E-9C51-00299FA7FC3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTableTransformerTests", "test\DataTableTransformerTests.csproj", "{D0235521-BEEC-472B-B9FD-CDAFF9E0D0F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88B562DA-38E5-477E-9C51-00299FA7FC3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88B562DA-38E5-477E-9C51-00299FA7FC3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88B562DA-38E5-477E-9C51-00299FA7FC3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88B562DA-38E5-477E-9C51-00299FA7FC3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0235521-BEEC-472B-B9FD-CDAFF9E0D0F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0235521-BEEC-472B-B9FD-CDAFF9E0D0F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0235521-BEEC-472B-B9FD-CDAFF9E0D0F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0235521-BEEC-472B-B9FD-CDAFF9E0D0F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
